@@ -78,7 +78,7 @@ h1, h2 {
 
 .product-grid {
     display: grid;
-    grid-template-columns: repeat(2, 1fr); /* Two images per row by default */
+    grid-template-columns: repeat(3, 1fr); /* Two images per row by default */
     gap: 40px;
     justify-items: center;
 }
