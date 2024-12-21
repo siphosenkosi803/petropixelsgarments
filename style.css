@@ -31,7 +31,7 @@ h1, h2 {
 
 /* Landing Section */
 .landing-section {
-    background: url('images/shop_girl.jpg') no-repeat center center/cover;
+    background: url('images/Contemplation at the Museum.jpeg') no-repeat center center/cover;
     color: white;
     position: relative;
 }
@@ -71,7 +71,7 @@ h1, h2 {
 
 /* Shop Section */
 .shop-section {
-    background: url('images/BW.jpg') no-repeat center center/cover;
+    background: url('images/Contemplation at the Museum.jpeg') no-repeat center center/cover;
     background-color: grey;
     padding: 60px 0;
 }
